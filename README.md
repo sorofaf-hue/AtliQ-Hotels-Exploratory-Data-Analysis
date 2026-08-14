@@ -106,7 +106,8 @@ Mumbai stands out as the largest revenue-generating market in the analyzed data.
 
 ## Average Occupancy Rate by City
 
-![Average Occupancy Rate by City](images/Average%20Occupancy%20Rate%20by%20City.png)
+![Average Occupancy Rate by City](<img width="890" height="490" alt="Average Occupancy Rate by City" src="https://github.com/user-attachments/assets/9d8e5cba-2513-4d21-bc6c-1f3b70794af9" />
+)
 
 Delhi records the highest average occupancy, while Bangalore records the lowest among the analyzed cities.
 
